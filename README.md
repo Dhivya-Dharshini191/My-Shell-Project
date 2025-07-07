@@ -48,4 +48,10 @@ Before running this script, you must:
 - After installing, run the following command to set up your credentials:
 
 ```bash
-aws configure
+aws configure![aws cli installation](https://github.com/user-attachments/assets/cf83fa9c-a832-4a60-b6c2-becec2a68171)
+
+***After downloading or cloning this script, change its permissions so it can be executed:
+
+chmod 771 aws_resource_list.sh
+###############################################################################################################################################################
+I have attached screenshots showing the output for each supported AWS service. You can find these screenshots in the images folder of this repository. This helps you visualize what the script output looks like for each resource type.
